@@ -2,7 +2,7 @@
 ## Authors
  binayakbehera999@gmail.com - Binayak Behera
  sriharsharaghu1@gmail.com - Sri Harsha R
- r.lijo - Lijo Raju
+ r.lijo@iitg.ac.in - Lijo Raju
  
 ## About the project
 
@@ -12,9 +12,9 @@ properties to detect which word has been spoken.
 
 ## prerequisites
 
-• Windows OS
-• Microsoft Visual Studio 2010
-• C++11 integrated with VS2010
-• Recording Module
-• A good microphone
-• A Smartphone
+- Windows OS
+- Microsoft Visual Studio 2010
+- C++11 integrated with VS2010
+- Recording Module
+- A good microphone
+- A Smartphone
