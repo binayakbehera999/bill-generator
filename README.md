@@ -1,4 +1,4 @@
-# Speech Based Bill Generator
+# Bill Generator
 ## Authors
  binayakbehera999@gmail.com - Binayak Behera  
  sriharsharaghu1@gmail.com - Sri Harsha R  
