@@ -10,7 +10,7 @@ Speech Based Bill Generator is a speech based solution to generate a bill for th
 The backend of the project is developed using C++/C in Visual Studio IDE, the frontend application and the web server is developed using Node.js and Flutter. It is build upon the core concept of Hidden Markov Model to store the properties of the speech sample and compare the new sample with these
 properties to detect which word has been spoken.
 
-## prerequisites
+## Prerequisites
 
 - Windows OS
 - Microsoft Visual Studio 2010
